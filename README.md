@@ -1,4 +1,4 @@
-# CoNext-bot V2.4
+# CoBot V2.4
 
 Ce script, découpé en plusieurs fichiers permet d'utiliser un environnement d'inventorisation via un agent GLPI, effacer un/des disques via NWipe, tester les disques durs et la mémoire vive, tout en consignant le résultat des opérations dans un répertoire réseau NFS ou sur un serveur FTP.
 
